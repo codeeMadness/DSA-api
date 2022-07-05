@@ -2,7 +2,7 @@ from fastapi import FastAPI #import class FastAPI() từ thư viện fastapi
 from fastapi.middleware.cors import CORSMiddleware
 
 origins = [
-    "https://nerd-api.herokuapp.com",
+    "https://dsa-api.herokuapp.com",
     "http://localhost"
 ]
 
